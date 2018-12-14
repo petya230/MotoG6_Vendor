@@ -1,0 +1,1 @@
+# MotoG6_Vendor
